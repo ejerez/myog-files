@@ -28,10 +28,10 @@ for such a thin piece that experiences such forces.
 
 * You'll have to first assemble everything: fit the circular piece from the repair kit on the screw hole of the adapter,
 make sure the shapes match and lock into each other, then screw the screw on, and add the rubber band (it should hold the sliding
-piece and the screw head together, alowing the entire mechanism to lock into two different positions. Then add the top covers and
+piece and the screw head together, alowing the entire mechanism to lock into two different positions (see assembly picture!). Then add the top covers and
 snap the whole mechanism into the visor.
 * Align the visor carefully: Attach it temporarily with something sticky but removable (like a gentle double-sided tape), or just hold it carefully. It should be
-able to snap into both the retracted and deployed position without getting overly deformed. Then mark the correct locations and
+able to snap into both the retracted and deployed position without getting overly deformed (see pictures!). Then mark the correct locations and
 remove the temporary attachment if you used it. This is the most finnicky part of the process, don't expect the adapter pieces to sit flush against the helmet surface,
 they most likely won't!
 * Now that you know the correct placement, carefully place the whole thing in the correct position (preferably snapped in "retracted" mode, folded up),
